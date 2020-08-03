@@ -1,2 +1,2 @@
-# Youtube-Clone
+# YoutubeClone
 A clone of YouTube's homepage built from scratch with HTML and CSS
